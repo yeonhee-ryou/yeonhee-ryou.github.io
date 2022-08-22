@@ -1,14 +1,18 @@
 # Yeonhee Ryou
 
 Ph.D. Candidate, [Prosys Lab](https://prosys.kaist.ac.kr/).
-
 KAIST Graduate School of Information Security
 
 **Email**: yeonhee.ryou@kaist.ac.kr
 
+**Google Scholar**: [yeonhee1ryou](https://scholar.google.com/citations?user=7vnGwg0AAAAJ&hl=ko)
+
 ## Research Interests
 * Program Analysis
+* Program Synthesis
 * Software Security
+
+---
 
 ## Education
 ***Ph.D.***
@@ -17,7 +21,7 @@ Graduate School of Information Security, KAIST
 
 ***MS***
 *Mar. 2016 - Feb. 2018*,
-School of Computing, KAIST
+[PLRG lab](https://plrg.kaist.ac.kr/), School of Computing, KAIST
 
 ***BS***
 *Feb. 2011 - Feb. 2016*,
@@ -27,6 +31,8 @@ School of Computing, KAIST
 ***SE Team, Samsung Research***
 *Feb. 2018 - Aug. 2022*,
 Software Engineer
+
+---
 
 ## Publications
 ### International Publications
