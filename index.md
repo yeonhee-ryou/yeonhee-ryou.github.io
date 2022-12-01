@@ -1,16 +1,17 @@
 # Yeonhee Ryou
 
-Ph.D. Candidate, [Prosys Lab](https://prosys.kaist.ac.kr/).
+Ph.D. Student, [Prosys Lab](https://prosys.kaist.ac.kr/).
 KAIST Graduate School of Information Security
 
 **Email**: yeonhee.ryou@kaist.ac.kr
 
-**Google Scholar**: [yeonhee1ryou](https://scholar.google.com/citations?user=7vnGwg0AAAAJ&hl=ko)
+**Google Scholar**: [Yeonhee Ryou](https://scholar.google.com/citations?user=7vnGwg0AAAAJ&hl=ko)
 
 ## Research Interests
-* Program Analysis
+* Robustness of Programming Language Model
+* Automated Program Repair
 * Program Synthesis
-* Software Security
+* Program Analysis
 
 ---
 
@@ -29,7 +30,7 @@ School of Computing, KAIST
 
 ## Experience
 ***SE Team, Samsung Research***
-*Feb. 2018 - Aug. 2022*,
+*Feb. 2018 - Jul. 2022*,
 Software Engineer
 
 ---
@@ -42,7 +43,9 @@ Software Engineer
 
 * Hyungjin Kim, Yonghwi Kwon, Sangwoo Joh, Hyukin Kwon, **Yeonhee Ryou**, Taeksu Kim,
 "Understanding Automated Code Review Process and Developer Experience in Industry",
-*Accepted, ESEC/FSE 2022 Industry Paper track*
+Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+(ESEC/FSE) Industry paper track,
+November 2022.
 
 * Hyungjin Kim, Yonghwi Kwon, Hyukin Kwon, **Yeonhee Ryou**, Sangwoo Joh, Taeksu Kim, Chul-Joo Kim,
 "A Unified Code Review Automation for Large-scale Industry with Diverse Development Environments",
