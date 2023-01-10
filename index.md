@@ -37,15 +37,17 @@ Software Engineer
 
 ## Publications
 ### International Publications
-* **Yeonhee Ryou**, Sangwoo Joh, Joonmo Yang, Sujin Kim, Youil Kim,
-"Code Understanding Linter to Detect Variable Misuse",
-*Accepted, ASE 2022 Industry Showcase track*
 
 * Hyungjin Kim, Yonghwi Kwon, Sangwoo Joh, Hyukin Kwon, **Yeonhee Ryou**, Taeksu Kim,
 "Understanding Automated Code Review Process and Developer Experience in Industry",
 Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 (ESEC/FSE) Industry paper track,
 November 2022.
+
+* **Yeonhee Ryou**, Sangwoo Joh, Joonmo Yang, Sujin Kim, Youil Kim,
+"Code Understanding Linter to Detect Variable Misuse",
+37th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Showcase,
+October 2022.
 
 * Hyungjin Kim, Yonghwi Kwon, Hyukin Kwon, **Yeonhee Ryou**, Sangwoo Joh, Taeksu Kim, Chul-Joo Kim,
 "A Unified Code Review Automation for Large-scale Industry with Diverse Development Environments",
