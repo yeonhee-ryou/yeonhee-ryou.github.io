@@ -16,20 +16,25 @@ KAIST Graduate School of Information Security
 ---
 
 ## Education
-***Ph.D.***
+* ***Ph.D.***
 *Sept. 2022 - Present*,
 Graduate School of Information Security, KAIST
 
-***MS***
+* ***MS***
 *Mar. 2016 - Feb. 2018*,
 [PLRG lab](https://plrg.kaist.ac.kr/), School of Computing, KAIST
 
-***BS***
+* ***BS***
 *Feb. 2011 - Feb. 2016*,
 School of Computing, KAIST
 
 ## Experience
-***SE Team, Samsung Research***
+
+* Artifact evaluation committee
+  * OOPSLA 2025
+  * PLDI 2023
+
+* ***SE Team, Samsung Research***
 *Feb. 2018 - Jul. 2022*,
 Software Engineer
 
@@ -37,6 +42,10 @@ Software Engineer
 
 ## Publications
 ### International Publications
+
+* Sujin Jang, **Yeonhee Ryou**, Heewon Lee, and Kihong Heo
+"UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions",
+ACM International Conference on the Foundations of Software Engineering (FSE), 2025
 
 * Hyungjin Kim, Yonghwi Kwon, Sangwoo Joh, Hyukin Kwon, **Yeonhee Ryou**, Taeksu Kim,
 "Understanding Automated Code Review Process and Developer Experience in Industry",
